@@ -3,7 +3,4 @@ These notebooks go in detail through all the steps of training various Deep Lear
 
 -Artifical Neural Network -Sequential Model
 
-
-
-
--Convolutional Neural Network- VGGA (using MNIST dataset)
+-Convolutional Neural Network- VGGA Build,fine tuning (using MNIST dataset)
